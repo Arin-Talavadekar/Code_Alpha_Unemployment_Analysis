@@ -2,3 +2,10 @@ numpy
 pandas 
 matplotlib 
 seaborn
+streamlit 
+plotly
+scikit-learn
+scikit-image
+tensorflow
+keras
+
